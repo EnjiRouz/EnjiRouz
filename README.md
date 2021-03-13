@@ -1,6 +1,4 @@
-# Welcome 🙋
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz)
+# Welcome 🙋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz)
 
 <!--
 **EnjiRouz/EnjiRouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +29,6 @@ Here are some ideas to get you started:
 
 👩‍💻 I’m currently working on my first Android Fantasy Game
 
+
+## 🎮 Current project
 ![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif)
