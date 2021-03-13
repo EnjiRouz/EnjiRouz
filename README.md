@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+
 Proficient: Unity, C#, VR, Android
 
 ## 😄 About me 
