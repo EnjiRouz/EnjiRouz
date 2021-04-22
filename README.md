@@ -45,12 +45,17 @@ Proficient: Unity, C#, VR, Android
   </a>
 </span>
 <span>  
+  <a href="https://youtu.be/8yATAWTa7_I">
+    <img src="https://img.youtube.com/vi/8yATAWTa7_I/0.jpg" alt="Как ускорить работу приложения? Оптимизируем медленный код. Неочевидные причины лагов программ на C#" height="225px">
+  </a>
+</span>
+<span>  
   <a href="https://youtu.be/xWHuw_1G-KA">
     <img src="https://img.youtube.com/vi/xWHuw_1G-KA/0.jpg" alt="Как создать крутой профиль на GitHub? Оформление репозиториев и README. Портфолио разработчик" height="225px">
   </a>
 </span>
 <span>  
-  <a href="https://youtu.be/8yATAWTa7_I">
-    <img src="https://img.youtube.com/vi/8yATAWTa7_I/0.jpg" alt="Как ускорить работу приложения? Оптимизируем медленный код. Неочевидные причины лагов программ на C#" height="225px">
+  <a href="https://youtu.be/bgab9PGCcAA">
+    <img src="https://img.youtube.com/vi/bgab9PGCcAA/0.jpg" alt="Как побороть прокрастинацию и стать продуктивным? Учимся принимать сложные решения и достигать целей" height="225px">
   </a>
 </span>
