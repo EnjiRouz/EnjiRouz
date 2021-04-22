@@ -28,6 +28,8 @@ Proficient: Unity, C#, VR, Android
 
 👩‍💻 I’m currently working on my first Android Fantasy Game
 
+🎥 And making videos about IT
+
 ## 📈 GitHub Stats
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical)
@@ -35,3 +37,20 @@ Proficient: Unity, C#, VR, Android
 
 ## 🎮 Current project
 ![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif)
+
+## 🎬 IT DIVA - YouTube Channel 
+<span>
+  <a href="https://youtu.be/_088fiSYT5g">
+    <img src="https://img.youtube.com/vi/_088fiSYT5g/0.jpg" alt="Руковожу командой разработки в 22 года. Как я этого добилась? 5 шагов к повышению в IT и не только" height="225px">
+  </a>
+</span>
+<span>  
+  <a href="https://youtu.be/xWHuw_1G-KA">
+    <img src="https://img.youtube.com/vi/xWHuw_1G-KA/0.jpg" alt="Как создать крутой профиль на GitHub? Оформление репозиториев и README. Портфолио разработчик" height="225px">
+  </a>
+</span>
+<span>  
+  <a href="https://youtu.be/8yATAWTa7_I">
+    <img src="https://img.youtube.com/vi/8yATAWTa7_I/0.jpg" alt="Как ускорить работу приложения? Оптимизируем медленный код. Неочевидные причины лагов программ на C#" height="225px">
+  </a>
+</span>
