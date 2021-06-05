@@ -59,3 +59,13 @@ Proficient: Unity, C#, VR, Android
     <img src="https://img.youtube.com/vi/bgab9PGCcAA/0.jpg" alt="Как побороть прокрастинацию и стать продуктивным? Учимся принимать сложные решения и достигать целей" height="225px">
   </a>
 </span>
+<span>  
+  <a href="https://youtu.be/N54rFHe1hiM">
+    <img src="https://img.youtube.com/vi/N54rFHe1hiM/0.jpg" alt="Как побороть прокрастинацию и стать продуктивным? Учимся принимать сложные решения и достигать целей" height="225px">
+  </a>
+</span>
+<span>  
+  <a href="https://youtu.be/r1no56MnvCM">
+    <img src="https://img.youtube.com/vi/r1no56MnvCM/0.jpg" alt="Как побороть прокрастинацию и стать продуктивным? Учимся принимать сложные решения и достигать целей" height="225px">
+  </a>
+</span>
