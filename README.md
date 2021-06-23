@@ -61,11 +61,11 @@ Proficient: Unity, C#, VR, Android
 </span>
 <span>  
   <a href="https://youtu.be/N54rFHe1hiM">
-    <img src="https://img.youtube.com/vi/N54rFHe1hiM/0.jpg" alt="Как побороть прокрастинацию и стать продуктивным? Учимся принимать сложные решения и достигать целей" height="225px">
+    <img src="https://img.youtube.com/vi/N54rFHe1hiM/0.jpg" alt="Как поднять самооценку? Синдром самозванца в IT. Как стать уверенным в себе и добиться желаемого?" height="225px">
   </a>
 </span>
 <span>  
   <a href="https://youtu.be/r1no56MnvCM">
-    <img src="https://img.youtube.com/vi/r1no56MnvCM/0.jpg" alt="Как побороть прокрастинацию и стать продуктивным? Учимся принимать сложные решения и достигать целей" height="225px">
+    <img src="https://img.youtube.com/vi/r1no56MnvCM/0.jpg" alt="Вся боль веб-разработки за 30 секунд" height="225px">
   </a>
 </span>
