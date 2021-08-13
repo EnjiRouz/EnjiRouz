@@ -22,7 +22,7 @@ Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
 
 ## 😄 About me 
 
-✌️ My name is Tanya, I am 23 years old. I have been doing programming for about 7 years, trying out different technologies. I have been engaged in industrial development for 3 years, in particular in C#.
+✌️ My name is Tanya, I am 23 years old. I have been doing programming for about 7 years, trying out different technologies. I have been engaged in industrial development for 4 years, in particular in C#.
 
 🎓I have experience in cross-platform development, creating mobile applications, working with virtual and augmented reality, machine learning (recently, by the way, I participated in Yandex Data Science competitions), and I can also make adaptive layout, create an MVC application and deploy a server. In addition, I worked closely with game engines such as Unreal Engine and Unity.
 
