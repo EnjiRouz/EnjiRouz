@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 Автор канала [IT DIVA](https://www.youtube.com/ITDIVA) про карьеру в IT на YouTube.
 
-Автор курса "Мама, я в IT" для тех, кто хочет построить краьеру в крупной компании.
+Автор курса "Мама, я в IT" для тех, кто хочет построить карьеру в крупной компании.
 
 Член сообщества [ITYouTubers](https://ityoutubers.com/)
 
