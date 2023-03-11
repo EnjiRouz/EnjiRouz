@@ -1,6 +1,5 @@
-# 🙋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) 
-
 <!--
+🙋 Welcome
 **EnjiRouz/EnjiRouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,13 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://user-images.githubusercontent.com/26218291/76645436-cee8cc00-657a-11ea-9260-558fb3fa35bd.gif" height="250px"/><img src="https://github.com/EnjiRouz/IETS-Individual-Educational-Trajectory-System/blob/master/admin-page.gif" height="250px"/>
--->
-
-I bring order to the chaos, turn coffee into code, automate processes, constantly develop
-
-Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
-
-## 😄 About me 
 
 ✌️ My name is Tanya, I am 23 years old. I have been doing programming for about 7 years, trying out different technologies. I have been engaged in industrial development for 4 years, in particular in C#.
 
@@ -30,24 +22,53 @@ Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
 
 🎥 And making videos about IT
 
+## 🎮 Игровой Pet-проект
+![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif)
+-->
+
+## 😄 Обо мне ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) 
+Привет! Меня зовут Бабичева Татьяна, и я уже 10 лет работаю в IT. 
+За это время я успела попробовать себя в разных технологиях: от веб-разработки до нейросетей, игровых движков и VR.
+
+Сейчас я разрабатываю высоконагруженные кросс-платформенные веб-приложения на React, которыми пользуются более 100 млн человек в месяц, автоматизирую рутинные процессы в команде, создаю гибкие решения и сложные механизмы.
+
+С 2021 года работаю над сервисом Яндекс.Директ - сервис для размещения рекламных объявлений.
+
+Автор канала [IT DIVA](https://www.youtube.com/ITDIVA) про карьеру в IT на YouTube.
+
+Автор курса "Мама, я в IT" для тех, кто хочет построить краьеру в крупной компании.
+
+Член сообщества [ITYouTubers](https://ityoutubers.com/)
+
+**Стек**: React, TypeScript
+
+**Опыт промышленной разработки:** 6 лет.
+
+**Опыт управления проектами и продуктом:** 3 года.
+
+
 ## 📈 GitHub Stats
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjirouz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
-## 🎮 Current project
-![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif)
+## 🎬 IT DIVA - мой YouTube-канал про карьеру в IT
 
-## 🎬 IT DIVA - YouTube Channel 
+<span>  
+  <a href="https://www.youtube.com/live/s0Ou47aakZw">
+    <img src="https://img.youtube.com/vi/s0Ou47aakZw/0.jpg" alt="Как стать востребованным в IT и построить крутую карьеру? Рекомендации новичкам" height="225px">
+  </a>
+</span>
 <span>
-  <a href="https://youtu.be/_088fiSYT5g">
-    <img src="https://img.youtube.com/vi/_088fiSYT5g/0.jpg" alt="Руковожу командой разработки в 22 года. Как я этого добилась? 5 шагов к повышению в IT и не только" height="225px">
+  <a href="https://youtu.be/7tXAFpNvAFg">
+    <img src="https://img.youtube.com/vi/7tXAFpNvAFg/0.jpg" alt="10 частых вопросов программисту. Нужно ли высшее образование, математика и мощный пк программисту?" height="225px">
   </a>
 </span>
 <span>  
-  <a href="https://youtu.be/8yATAWTa7_I">
-    <img src="https://img.youtube.com/vi/8yATAWTa7_I/0.jpg" alt="Как ускорить работу приложения? Оптимизируем медленный код. Неочевидные причины лагов программ на C#" height="225px">
+  <a href="https://youtu.be/NrW0wT0Ztgc">
+    <img src="https://img.youtube.com/vi/NrW0wT0Ztgc/0.jpg" alt="Как работать из дома и не сойти с ума? Правила эффективной удаленной работы" height="225px">
   </a>
+</span>
 </span>
 <span>  
   <a href="https://youtu.be/xWHuw_1G-KA">
@@ -62,10 +83,5 @@ Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
 <span>  
   <a href="https://youtu.be/N54rFHe1hiM">
     <img src="https://img.youtube.com/vi/N54rFHe1hiM/0.jpg" alt="Как поднять самооценку? Синдром самозванца в IT. Как стать уверенным в себе и добиться желаемого?" height="225px">
-  </a>
-</span>
-<span>  
-  <a href="https://youtu.be/r1no56MnvCM">
-    <img src="https://img.youtube.com/vi/r1no56MnvCM/0.jpg" alt="Вся боль веб-разработки за 30 секунд" height="225px">
   </a>
 </span>
