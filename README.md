@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 С 2021 года работаю над сервисом размещения рекламы [Яндекс.Директ](https://direct.yandex.ru/).
 
-Являюсь автором YouTube-канала [IT DIVA](https://www.youtube.com/ITDIVA) про карьеру в IT, а также преподавателем собственного курса ["Мама, я в IT"](https://course.it-diva.ru/) для тех, кто хочет построить карьеру в крупной компании.
+Являюсь автором YouTube-канала [IT DIVA](https://www.youtube.com/ITDIVA) и блога в [Telegram](https://t.me/it_diva_offical) про карьеру в IT, а также преподавателем собственного курса ["Мама, я в IT"](https://course.it-diva.ru/) для тех, кто хочет построить карьеру в крупной компании.
 
 Член крупнейшего IT-сообщества YouTube-авторов [ITYouTubers](https://ityoutubers.com/)
 
