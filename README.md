@@ -32,13 +32,15 @@ Here are some ideas to get you started:
 
 **Опыт управления проектами и продуктом:** 3 года.
 
-**Стек:** React, TypeScript
+**Стек:** React, TypeScript, JavaScript, Redux, HTML, CSS, Git, Jest, Cypress.
 
 [![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,figma)](https://skillicons.dev)
 
 Разрабатываю высоконагруженные кросс-платформенные веб-приложения на React, которыми пользуются более 100 млн человек в месяц, а также автоматизирую рутинные процессы в команде, создаю гибкие комплексные решения для задач любой сложности.
 
-С 2021 года работаю над сервисом размещения рекламы [Яндекс.Директ](https://direct.yandex.ru/).
+С 2023 года являюсь руководителем стрима frontend-разработки в отделе R&D корпоративного мессенджера [We.Teams](https://webinar.ru/products/messenger/).
+
+В период 2021-2023 года работала над сервисом размещения рекламы [Яндекс.Директ](https://direct.yandex.ru/).
 
 Являюсь автором YouTube-канала [IT DIVA](https://www.youtube.com/ITDIVA) и блога в [Telegram](https://t.me/it_diva_offical) про карьеру в IT, а также преподавателем собственного курса ["IT Career Booster"](https://course.it-diva.ru/) для тех, кто хочет построить карьеру в крупной компании.
 
