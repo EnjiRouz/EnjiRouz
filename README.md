@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif)
 -->
 
-## 🙋 Привет! Меня зовут Бабичева Татьяна ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) 
+## 🙋 Привет! Меня зовут Бабичева Татьяна <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) -->
 
 **Опыт промышленной разработки:** 6 лет.
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical)
+<!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjirouz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 ## 🎬 IT DIVA - мой YouTube-канал про карьеру в IT
