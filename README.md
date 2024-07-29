@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 В период 2021-2023 года работала над сервисом размещения рекламы [Яндекс.Директ](https://direct.yandex.ru/).
 
-Являюсь автором YouTube-канала [IT DIVA](https://www.youtube.com/ITDIVA) и блога в [Telegram](https://t.me/it_diva_offical) про карьеру в IT, а также преподавателем собственного курса ["IT Career Booster"](https://course.it-diva.ru/) для тех, кто хочет построить карьеру в крупной компании.
+Являюсь автором YouTube-канала [IT DIVA](https://www.youtube.com/ITDIVA) и блога в [Telegram](https://t.me/it_diva_offical) про карьеру в IT.
 
 Член крупнейшего IT-сообщества YouTube-авторов [ITYouTubers](https://ityoutubers.com/)
 
