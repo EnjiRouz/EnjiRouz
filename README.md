@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif)
 -->
 
-## 🙋 Привет! Меня зовут Бабичева Татьяна <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) -->
+## 🙋 Привет! Меня зовут Елизарова Татьяна <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) -->
 
 **Опыт промышленной разработки:** 8 лет.
 
