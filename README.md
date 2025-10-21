@@ -28,23 +28,25 @@ Here are some ideas to get you started:
 
 ## 🙋 Привет! Меня зовут Бабичева Татьяна <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) -->
 
-**Опыт промышленной разработки:** 7 лет.
+**Опыт промышленной разработки:** 8 лет.
 
-**Опыт управления проектами и продуктом:** 4 года.
+**Опыт управления проектами и продуктом:** 6 года.
 
 **Стек:** React, TypeScript, JavaScript, Redux, HTML, CSS, Git, Jest, Cypress.
 
 [![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,figma)](https://skillicons.dev)
 
-Руковожу разработкой высоконагруженных кросс-платформенных веб-приложений на React, которыми пользуются более 100 млн человек в месяц, а также автоматизирую рутинные процессы в команде, создаю гибкие комплексные решения для задач любой сложности.
+Руковожу разработкой высоконагруженных кросс-платформенных приложений, которыми пользуются более 100 млн человек в месяц, а также автоматизирую рутинные процессы в команде, создаю гибкие комплексные решения для задач любой сложности.
 
 С 2023 года являюсь руководителем направления frontend-разработки корпоративного мессенджера [МТС Линк Чаты](https://mts-link.ru/products/messenger/).
 
 В период 2021-2023 года работала над сервисом размещения рекламы [Яндекс.Директ](https://direct.yandex.ru/).
 
+<!--
 Являюсь автором YouTube-канала [IT DIVA](https://www.youtube.com/ITDIVA) и блога в [Telegram](https://t.me/it_diva_offical) про карьеру в IT.
 
-Член крупнейшего IT-сообщества YouTube-авторов [ITYouTubers](https://ityoutubers.com/)
+Член крупнейшего IT-сообщества YouTube-авторов [ITYouTubers](https://ityoutubers.com/) 
+-->
 
 Коротко обо мне:
 - Легко выстраиваю коммуникацию между разработчиками, дизайнерами и тестировщиками, чтобы команда работала без меня и не теряла при этом эффективности
@@ -64,6 +66,7 @@ Here are some ideas to get you started:
 <!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjirouz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
+<!--
 ## 🎬 IT DIVA - мой YouTube-канал про карьеру в IT
 
 <span>  
@@ -97,3 +100,4 @@ Here are some ideas to get you started:
     <img src="https://img.youtube.com/vi/N54rFHe1hiM/0.jpg" alt="Как поднять самооценку? Синдром самозванца в IT. Как стать уверенным в себе и добиться желаемого?" height="225px">
   </a>
 </span>
+-->
