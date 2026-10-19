@@ -28,17 +28,23 @@ Here are some ideas to get you started:
 
 ## 🙋 Привет! Меня зовут Елизарова Татьяна <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) -->
 
+С 2026 года я являюсь основателем собственного сервиса [Clubbix](https://clubbix.ru/) для управления клубами по подписке.
+
+### Мой опыт в IT
+
 **Опыт промышленной разработки:** 8 лет.
 
 **Опыт управления проектами и продуктом:** 6 года.
 
-**Стек:** React, TypeScript, JavaScript, Redux, HTML, CSS, Git, Jest, Cypress.
+**Стек**, с которым работала на разных проектах и который трогала руками: React, TypeScript, JavaScript, Redux, HTML, CSS, Git, Jest, Cypress, Go, Vue.js, Java, PHP, Laravel, C#, Unity, Python и т.д.
 
 [![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,figma)](https://skillicons.dev)
 
 Руковожу разработкой высоконагруженных кросс-платформенных приложений, которыми пользуются более 100 млн человек в месяц, а также автоматизирую рутинные процессы в команде, создаю гибкие комплексные решения для задач любой сложности.
 
-С 2023 года являюсь руководителем направления frontend-разработки корпоративного мессенджера [МТС Линк Чаты](https://mts-link.ru/products/messenger/).
+С 2025 года была руководителем отдела разработки звонков в [Avito](https://career.avito.com/teams/communication-products/).
+
+С 2023 года была руководителем направления frontend-разработки корпоративного мессенджера [МТС Линк Чаты](https://mts-link.ru/products/messenger/).
 
 В период 2021-2023 года работала над сервисом размещения рекламы [Яндекс.Директ](https://direct.yandex.ru/).
 
